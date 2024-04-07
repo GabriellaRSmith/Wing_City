@@ -1,3 +1,4 @@
+//drew inspiration from a Flappy Bird tutorial
 using UnityEngine;
 
 public class MovingObject : MonoBehaviour
