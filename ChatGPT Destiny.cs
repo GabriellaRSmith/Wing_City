@@ -1,3 +1,4 @@
+//Used https://github.com/srcnalt/OpenAI-Unity for help with connecting AI to Unity.
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
